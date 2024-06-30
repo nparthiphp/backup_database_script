@@ -8,12 +8,12 @@ Prerequisites
         • Shell environment: The script is written in Bash, so it should be run in a Unix-like environment (Linux, macOS, etc.).
 Usage
         1. Clone the repository (if applicable) or download the script file to your local machine.
-                     sh
-                           git clone <repository-url>
-                           cd <repository-directory>
+                     
+                        sh  git clone https://github.com/lalithbarani/backup_database_script.git
+                          
                   
         2. Make the script executable (if it isn't already).
-                     sh  chmod +x backup_mysql.sh
+                        sh  chmod +x backup_mysql.sh
 
         3. Edit the script to configure your MySQL credentials and backup preferences.
 
